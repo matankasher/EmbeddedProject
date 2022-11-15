@@ -9,7 +9,7 @@
 
 Presentation video
 
-<img src="/screenshots/esp8266.jpg" alt="main page" herf/>(https://youtu.be/FDG0MajFcA0)
+[<img src="/screenshots/main.jpg">](https://youtu.be/FDG0MajFcA0)
 
 Embedded project , using Esp8266 processor. 
 build temperature sensor station , live update at website.
