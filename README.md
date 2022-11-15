@@ -1,6 +1,6 @@
 # EmbeddedProject
 
-# Personal project
+## Personal project
 
 ### Esp8266 sparkfun
 <img src="/screenshots/esp8266.jpg" alt="main page" width=20% height=20% />
@@ -9,7 +9,7 @@
 
 Presentation video
 
-[<img src="/screenshots/main.jpg">](https://youtu.be/FDG0MajFcA0)
+[<img src="/screenshots/main.jpg"  width=30% height=20%>](https://youtu.be/FDG0MajFcA0)
 
 Embedded project , using Esp8266 processor. 
 build temperature sensor station , live update at website.
