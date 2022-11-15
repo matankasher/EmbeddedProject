@@ -3,7 +3,7 @@
 # Personal project
 
 ### Esp8266 sparkfun
-
+<img src="/screenshots/esp8266.jpg" alt="main page" width=20% height=20% />
 ### Description
 Embedded project , using Esp8266 processor. 
 build temperature sensor station , live update at website.
@@ -18,23 +18,5 @@ build temperature sensor station , live update at website.
 - build website
 - HTML, CSS ,JS
 - read api of processor virtual write
-
-### Methods
-- C
-- Pointers
-- Dynamic Memory Allocation
-- Reading and Creating File
-- MakeFile
-### Screenshots
-
-- Test file (input)
-<img src="/screenshots/esp8266.jpg" alt="main page" width=20% height=20% />
-- Code after deployment marco
- <img src="/screenshots/gif web.gif" alt="main page" width=20% height=30%/>
-- 16 base code
-<img src="/screenshots/32 base code file.png" alt="main page"/>
-- External label
- <img src="/screenshots/extern file.png" alt="main page"/>
-- Data label file 
-<img src="/screenshots/data label file.png" alt="main page"/>
+ <img src="/screenshots/gif web.gif" alt="main page" width=40% height=50%/>
 
