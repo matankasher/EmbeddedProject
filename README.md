@@ -28,9 +28,9 @@ build temperature sensor station , live update at website.
 ### Screenshots
 
 - Test file (input)
-<img src="/screenshots/esp8266.jpg" alt="main page"/>
+<img src="/screenshots/esp8266.jpg" alt="main page" width=50% height=50% />
 - Code after deployment marco
- <img src="/screenshots/gif web.gif" alt="main page"/>
+ <img src="/screenshots/gif web.gif" alt="main page" width=50% height=50%/>
 - 16 base code
 <img src="/screenshots/32 base code file.png" alt="main page"/>
 - External label
